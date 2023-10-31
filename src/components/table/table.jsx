@@ -25,6 +25,29 @@ const Table = () => {
     return hours + ":" + minutes;
   };
 
+  const getClassName = (group) => {
+    let backgroundColor;
+
+    switch (group) {
+      case "Management":
+        backgroundColor = "management";
+        break;
+      case "HR":
+        backgroundColor = "hr";
+        break;
+      case "Security":
+        backgroundColor = "security";
+        break;
+      case "Accounting":
+        backgroundColor = "accounting";
+        break;
+      default:
+        backgroundColor = "etc";
+    }
+
+    return backgroundColor;
+  };
+
   const checkSearch = () => {
     let tableSort;
 
@@ -45,8 +68,9 @@ const Table = () => {
         index >= pagination.limit * (pagination.page - 1)
       )
         return (
-          <tr key={row.id}>
+          <tr className={getClassName(row.Group)} key={row.id}>
             <td>{row.Fullname}</td>
+            <td>{row.Group}</td>
             {recieveTable(row.Days)}
           </tr>
         );
@@ -196,6 +220,9 @@ const Table = () => {
               <button onClick={() => sortTableByName()}>
                 <div>User</div>
               </button>
+            </td>
+            <td>
+              <div>Group</div>
             </td>
             {[...Array(31)].map((x, ind) => (
               <td key={ind} onClick={() => checkIdChoose(ind)}>

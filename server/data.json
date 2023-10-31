@@ -1,8 +1,8 @@
 [
   {
     "id": 188,
+    "Group": "Management",
     "Fullname": "Adolph Torphy",
-    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "19-38", "Start": "14-44" },
       { "Date": "2021-05-02", "End": "12-11", "Start": "11-14" },
@@ -40,6 +40,7 @@
   {
     "id": 155,
     "Fullname": "Alex Wilderman",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-03", "End": "17-32", "Start": "11-20" },
       { "Date": "2021-05-04", "End": "19-41", "Start": "13-44" },
@@ -72,6 +73,7 @@
   {
     "id": 68,
     "Fullname": "Alanna Hintz",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "16-22", "Start": "13-58" },
       { "Date": "2021-05-03", "End": "16-55", "Start": "11-20" },
@@ -109,6 +111,7 @@
   {
     "id": 159,
     "Fullname": "Allie Homenick",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "17-15", "Start": "12-48" },
       { "Date": "2021-05-02", "End": "12-40", "Start": "11-38" },
@@ -143,6 +146,7 @@
   {
     "id": 185,
     "Fullname": "Alvah Dach",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-02", "End": "15-30", "Start": "14-37" },
       { "Date": "2021-05-03", "End": "11-12", "Start": "10-36" },
@@ -177,6 +181,7 @@
   {
     "id": 65,
     "Fullname": "Alvina Cormier",
+    "Group": "Accounting",
     "Days": [
       { "Date": "2021-05-01", "End": "17-45", "Start": "12-38" },
       { "Date": "2021-05-03", "End": "13-59", "Start": "12-58" },
@@ -210,6 +215,7 @@
   {
     "id": 139,
     "Fullname": "Angelo Dietrich",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "18-56", "Start": "12-38" },
       { "Date": "2021-05-02", "End": "17-10", "Start": "14-48" },
@@ -244,6 +250,7 @@
   {
     "id": 192,
     "Fullname": "Anthony Hodkiewicz",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "18-18", "Start": "13-18" },
       { "Date": "2021-05-02", "End": "13-26", "Start": "10-40" },
@@ -279,6 +286,7 @@
   {
     "id": 208,
     "Fullname": "Arnold McGlynn",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-02", "End": "17-46", "Start": "12-59" },
       { "Date": "2021-05-03", "End": "17-29", "Start": "11-57" },
@@ -313,6 +321,7 @@
   {
     "id": 143,
     "Fullname": "Ashley Herman",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "15-28", "Start": "13-33" },
       { "Date": "2021-05-02", "End": "14-52", "Start": "13-23" },
@@ -347,6 +356,7 @@
   {
     "id": 186,
     "Fullname": "Bernardo Lynch",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "14-35", "Start": "13-11" },
       { "Date": "2021-05-02", "End": "18-40", "Start": "13-19" },
@@ -381,6 +391,7 @@
   {
     "id": 79,
     "Fullname": "Bernhard Wolf",
+    "Group": "HR",
     "Days": [
       { "Date": "2021-05-01", "End": "17-16", "Start": "14-57" },
       { "Date": "2021-05-02", "End": "16-58", "Start": "13-44" },
@@ -415,6 +426,7 @@
   {
     "id": 183,
     "Fullname": "Brady Kozey",
+    "Group": "HR",
     "Days": [
       { "Date": "2021-05-01", "End": "15-34", "Start": "10-20" },
       { "Date": "2021-05-02", "End": "16-45", "Start": "11-11" },
@@ -447,6 +459,7 @@
   {
     "id": 83,
     "Fullname": "Caden Schmidt",
+    "Group": "Security",
     "Days": [
       { "Date": "2021-05-01", "End": "16-54", "Start": "11-43" },
       { "Date": "2021-05-02", "End": "17-25", "Start": "11-46" },
@@ -481,6 +494,7 @@
   {
     "id": 128,
     "Fullname": "Chyna Carroll",
+    "Group": "Security",
     "Days": [
       { "Date": "2021-05-01", "End": "18-12", "Start": "12-53" },
       { "Date": "2021-05-03", "End": "13-54", "Start": "12-21" },
@@ -514,6 +528,7 @@
   {
     "id": 115,
     "Fullname": "Cody O'Kon",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "13-13", "Start": "12-11" },
       { "Date": "2021-05-02", "End": "11-28", "Start": "10-55" },
@@ -550,6 +565,7 @@
   {
     "id": 202,
     "Fullname": "Cristian Keeling",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "17-20", "Start": "11-10" },
       { "Date": "2021-05-02", "End": "14-56", "Start": "13-56" },
@@ -586,6 +602,7 @@
   {
     "id": 197,
     "Fullname": "Daisy Abshire",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "19-17", "Start": "13-54" },
       { "Date": "2021-05-02", "End": "15-34", "Start": "11-11" },
@@ -621,6 +638,7 @@
   {
     "id": 157,
     "Fullname": "Deanna Hilpert",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "18-46", "Start": "13-33" },
       { "Date": "2021-05-02", "End": "16-26", "Start": "11-24" },
@@ -656,6 +674,7 @@
   {
     "id": 203,
     "Fullname": "Della Hoppe",
+    "Group": "HR",
     "Days": [
       { "Date": "2021-05-01", "End": "17-21", "Start": "12-34" },
       { "Date": "2021-05-02", "End": "18-47", "Start": "14-21" },
@@ -693,6 +712,7 @@
   {
     "id": 23,
     "Fullname": "Destin Carter",
+    "Group": "HR",
     "Days": [
       { "Date": "2021-05-01", "End": "15-26", "Start": "12-15" },
       { "Date": "2021-05-02", "End": "18-56", "Start": "12-24" },
@@ -730,6 +750,7 @@
   {
     "id": 53,
     "Fullname": "Diana Fisher",
+    "Group": "Accounting",
     "Days": [
       { "Date": "2021-05-01", "End": "14-30", "Start": "13-20" },
       { "Date": "2021-05-02", "End": "15-31", "Start": "12-28" },
@@ -766,6 +787,7 @@
   {
     "id": 25,
     "Fullname": "Domenic Tromp",
+    "Group": "Accounting",
     "Days": [
       { "Date": "2021-05-01", "End": "16-19", "Start": "11-31" },
       { "Date": "2021-05-03", "End": "17-36", "Start": "12-51" },
@@ -795,6 +817,7 @@
   {
     "id": 173,
     "Fullname": "Elisha Osinski",
+    "Group": "Accounting",
     "Days": [
       { "Date": "2021-05-01", "End": "14-31", "Start": "11-57" },
       { "Date": "2021-05-02", "End": "15-17", "Start": "14-40" },
@@ -830,6 +853,7 @@
   {
     "id": 170,
     "Fullname": "Elmo Gaylord",
+    "Group": "Accounting",
     "Days": [
       { "Date": "2021-05-01", "End": "16-14", "Start": "11-22" },
       { "Date": "2021-05-02", "End": "12-38", "Start": "11-30" },
@@ -867,6 +891,7 @@
   {
     "id": 104,
     "Fullname": "Emelie Bauch",
+    "Group": "Management",
     "Days": [
       { "Date": "2021-05-01", "End": "19-44", "Start": "14-13" },
       { "Date": "2021-05-02", "End": "15-23", "Start": "11-54" },
@@ -901,6 +926,7 @@
   {
     "id": 62,
     "Fullname": "Fidel Kihn",
+    "Group": "Management",
     "Days": [
       { "Date": "2021-05-01", "End": "17-44", "Start": "14-48" },
       { "Date": "2021-05-03", "End": "20-24", "Start": "14-57" },
@@ -935,6 +961,7 @@
   {
     "id": 193,
     "Fullname": "Gabriel Bruen",
+    "Group": "Management",
     "Days": [
       { "Date": "2021-05-01", "End": "15-48", "Start": "13-49" },
       { "Date": "2021-05-02", "End": "16-43", "Start": "10-40" },
@@ -969,6 +996,7 @@
   {
     "id": 156,
     "Fullname": "Geovanny Rowe",
+    "Group": "HR",
     "Days": [
       { "Date": "2021-05-01", "End": "18-36", "Start": "13-45" },
       { "Date": "2021-05-02", "End": "15-59", "Start": "13-59" },
@@ -1005,6 +1033,7 @@
   {
     "id": 190,
     "Fullname": "Heath Abshire",
+    "Group": "Security",
     "Days": [
       { "Date": "2021-05-01", "End": "14-49", "Start": "12-55" },
       { "Date": "2021-05-02", "End": "18-30", "Start": "12-46" },
@@ -1038,6 +1067,7 @@
   {
     "id": 43,
     "Fullname": "Hoyt Kessler",
+    "Group": "Security",
     "Days": [
       { "Date": "2021-05-01", "End": "11-38", "Start": "10-54" },
       { "Date": "2021-05-02", "End": "17-39", "Start": "12-31" },
@@ -1074,6 +1104,7 @@
   {
     "id": 122,
     "Fullname": "Hunter Robel",
+    "Group": "Security",
     "Days": [
       { "Date": "2021-05-01", "End": "16-20", "Start": "10-22" },
       { "Date": "2021-05-02", "End": "17-47", "Start": "14-34" },
@@ -1109,6 +1140,7 @@
   {
     "id": 199,
     "Fullname": "Jammie Fay",
+    "Group": "Security",
     "Days": [
       { "Date": "2021-05-01", "End": "13-15", "Start": "10-36" },
       { "Date": "2021-05-02", "End": "17-39", "Start": "14-11" },
@@ -1140,6 +1172,7 @@
   {
     "id": 75,
     "Fullname": "Jarrod Schiller",
+    "Group": "Management",
     "Days": [
       { "Date": "2021-05-01", "End": "18-50", "Start": "14-40" },
       { "Date": "2021-05-02", "End": "15-30", "Start": "14-19" },
@@ -1174,6 +1207,7 @@
   {
     "id": 174,
     "Fullname": "Jessie Howe",
+    "Group": "Management",
     "Days": [
       { "Date": "2021-05-02", "End": "18-30", "Start": "13-55" },
       { "Date": "2021-05-03", "End": "13-12", "Start": "12-41" },
@@ -1205,6 +1239,7 @@
   {
     "id": 150,
     "Fullname": "Jimmy Mraz",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "17-32", "Start": "12-45" },
       { "Date": "2021-05-02", "End": "19-22", "Start": "14-55" },
@@ -1237,6 +1272,7 @@
   {
     "id": 87,
     "Fullname": "Katheryn Legros",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "15-20", "Start": "12-31" },
       { "Date": "2021-05-02", "End": "15-31", "Start": "10-42" },
@@ -1274,6 +1310,7 @@
   {
     "id": 198,
     "Fullname": "Kennedi Cremin",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "18-25", "Start": "14-44" },
       { "Date": "2021-05-02", "End": "15-55", "Start": "12-36" },
@@ -1311,6 +1348,7 @@
   {
     "id": 82,
     "Fullname": "Kian Kassulke",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "15-59", "Start": "11-53" },
       { "Date": "2021-05-02", "End": "18-15", "Start": "14-37" },
@@ -1345,6 +1383,7 @@
   {
     "id": 178,
     "Fullname": "Kianna Koss",
+    "Group": "Accounting",
     "Days": [
       { "Date": "2021-05-01", "End": "19-35", "Start": "13-22" },
       { "Date": "2021-05-02", "End": "18-25", "Start": "14-57" },
@@ -1378,6 +1417,7 @@
   {
     "id": 169,
     "Fullname": "Kirstin Ledner",
+    "Group": "Accounting",
     "Days": [
       { "Date": "2021-05-02", "End": "16-39", "Start": "12-45" },
       { "Date": "2021-05-03", "End": "18-46", "Start": "12-10" },
@@ -1413,6 +1453,7 @@
   {
     "id": 114,
     "Fullname": "Kurtis Funk",
+    "Group": "Accounting",
     "Days": [
       { "Date": "2021-05-01", "End": "17-43", "Start": "14-57" },
       { "Date": "2021-05-02", "End": "15-48", "Start": "13-43" },
@@ -1447,6 +1488,7 @@
   {
     "id": 32,
     "Fullname": "Laurine Williamson",
+    "Group": "Security",
     "Days": [
       { "Date": "2021-05-01", "End": "18-54", "Start": "12-42" },
       { "Date": "2021-05-02", "End": "12-32", "Start": "11-16" },
@@ -1482,6 +1524,7 @@
   {
     "id": 177,
     "Fullname": "Lela Senger",
+    "Group": "Security",
     "Days": [
       { "Date": "2021-05-01", "End": "16-58", "Start": "14-30" },
       { "Date": "2021-05-02", "End": "16-10", "Start": "11-14" },
@@ -1517,6 +1560,7 @@
   {
     "id": 207,
     "Fullname": "Leola Johns",
+    "Group": "Security",
     "Days": [
       { "Date": "2021-05-01", "End": "13-40", "Start": "12-57" },
       { "Date": "2021-05-02", "End": "17-24", "Start": "13-34" },
@@ -1553,6 +1597,7 @@
   {
     "id": 98,
     "Fullname": "Lillian Ullrich",
+    "Group": "HR",
     "Days": [
       { "Date": "2021-05-01", "End": "18-40", "Start": "12-38" },
       { "Date": "2021-05-02", "End": "19-24", "Start": "13-44" },
@@ -1586,6 +1631,7 @@
   {
     "id": 162,
     "Fullname": "Lillie Okuneva",
+    "Group": "HR",
     "Days": [
       { "Date": "2021-05-01", "End": "14-23", "Start": "13-14" },
       { "Date": "2021-05-02", "End": "16-51", "Start": "13-56" },
@@ -1622,6 +1668,7 @@
   {
     "id": 26,
     "Fullname": "Lilly Kertzmann",
+    "Group": "HR",
     "Days": [
       { "Date": "2021-05-01", "End": "16-50", "Start": "13-41" },
       { "Date": "2021-05-02", "End": "18-10", "Start": "13-48" },
@@ -1657,6 +1704,7 @@
   {
     "id": 20,
     "Fullname": "Lucie Bogisich",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "19-27", "Start": "13-48" },
       { "Date": "2021-05-02", "End": "18-50", "Start": "13-57" },
@@ -1691,6 +1739,7 @@
   {
     "id": 44,
     "Fullname": "Mabelle Daniel",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-02", "End": "15-13", "Start": "12-54" },
       { "Date": "2021-05-03", "End": "18-37", "Start": "13-21" },
@@ -1726,6 +1775,7 @@
   {
     "id": 127,
     "Fullname": "Major Stamm",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "13-54", "Start": "11-32" },
       { "Date": "2021-05-02", "End": "16-29", "Start": "10-54" },
@@ -1762,6 +1812,7 @@
   {
     "id": 59,
     "Fullname": "Mariah Stiedemann",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "15-30", "Start": "13-34" },
       { "Date": "2021-05-02", "End": "12-27", "Start": "10-57" },
@@ -1797,6 +1848,7 @@
   {
     "id": 196,
     "Fullname": "Maybell Labadie",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "20-57", "Start": "14-30" },
       { "Date": "2021-05-02", "End": "15-57", "Start": "11-24" },
@@ -1832,6 +1884,7 @@
   {
     "id": 66,
     "Fullname": "Minerva Kilback",
+    "Group": "HR",
     "Days": [
       { "Date": "2021-05-01", "End": "19-59", "Start": "13-59" },
       { "Date": "2021-05-02", "End": "20-51", "Start": "14-24" },
@@ -1867,6 +1920,7 @@
   {
     "id": 189,
     "Fullname": "Nora Jast",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "14-44", "Start": "11-51" },
       { "Date": "2021-05-02", "End": "14-15", "Start": "11-28" },
@@ -1901,6 +1955,7 @@
   {
     "id": 112,
     "Fullname": "Oscar King",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "17-30", "Start": "13-47" },
       { "Date": "2021-05-02", "End": "16-42", "Start": "14-20" },
@@ -1934,6 +1989,7 @@
   {
     "id": 152,
     "Fullname": "Pasquale Stiedemann",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "15-54", "Start": "13-27" },
       { "Date": "2021-05-03", "End": "14-55", "Start": "13-15" },
@@ -1970,6 +2026,7 @@
   {
     "id": 191,
     "Fullname": "Pauline Lang",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "14-23", "Start": "11-59" },
       { "Date": "2021-05-03", "End": "16-11", "Start": "10-17" },
@@ -2002,6 +2059,7 @@
   {
     "id": 56,
     "Fullname": "Raul McDermott",
+    "Group": "Accounting",
     "Days": [
       { "Date": "2021-05-01", "End": "18-22", "Start": "13-56" },
       { "Date": "2021-05-02", "End": "15-19", "Start": "10-32" },
@@ -2038,6 +2096,7 @@
   {
     "id": 102,
     "Fullname": "Reilly Marquardt",
+    "Group": "Accounting",
     "Days": [
       { "Date": "2021-05-01", "End": "18-50", "Start": "14-31" },
       { "Date": "2021-05-02", "End": "18-33", "Start": "12-18" },
@@ -2073,6 +2132,7 @@
   {
     "id": 113,
     "Fullname": "Rita Rempel",
+    "Group": "Accounting",
     "Days": [
       { "Date": "2021-05-01", "End": "19-35", "Start": "14-32" },
       { "Date": "2021-05-02", "End": "18-52", "Start": "14-33" },
@@ -2108,6 +2168,7 @@
   {
     "id": 147,
     "Fullname": "Roosevelt Padberg",
+    "Group": "Management",
     "Days": [
       { "Date": "2021-05-01", "End": "16-49", "Start": "14-15" },
       { "Date": "2021-05-02", "End": "11-54", "Start": "10-16" },
@@ -2145,6 +2206,7 @@
   {
     "id": 101,
     "Fullname": "Rosemarie Blanda",
+    "Group": "Management",
     "Days": [
       { "Date": "2021-05-01", "End": "16-13", "Start": "10-39" },
       { "Date": "2021-05-02", "End": "13-31", "Start": "10-26" },
@@ -2179,6 +2241,7 @@
   {
     "id": 154,
     "Fullname": "Shirley Beatty",
+    "Group": "Management",
     "Days": [
       { "Date": "2021-05-01", "End": "15-40", "Start": "10-26" },
       { "Date": "2021-05-02", "End": "16-57", "Start": "14-52" },
@@ -2215,6 +2278,7 @@
   {
     "id": 27,
     "Fullname": "Simeon Hirthe",
+    "Group": "HR",
     "Days": [
       { "Date": "2021-05-01", "End": "17-57", "Start": "14-51" },
       { "Date": "2021-05-02", "End": "15-18", "Start": "10-56" },
@@ -2248,6 +2312,7 @@
   {
     "id": 109,
     "Fullname": "Talia Okuneva",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "18-25", "Start": "14-10" },
       { "Date": "2021-05-02", "End": "16-43", "Start": "11-46" },
@@ -2285,6 +2350,7 @@
   {
     "id": 72,
     "Fullname": "Timmothy Schmidt",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "16-18", "Start": "14-40" },
       { "Date": "2021-05-02", "End": "15-35", "Start": "11-37" },
@@ -2319,6 +2385,7 @@
   {
     "id": 132,
     "Fullname": "Tristin Pfannerstill",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "18-24", "Start": "14-25" },
       { "Date": "2021-05-02", "End": "19-25", "Start": "13-10" },
@@ -2356,6 +2423,7 @@
   {
     "id": 110,
     "Fullname": "Uriel Jerde",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "19-15", "Start": "13-48" },
       { "Date": "2021-05-02", "End": "14-22", "Start": "12-43" },
@@ -2390,6 +2458,7 @@
   {
     "id": 46,
     "Fullname": "Verda Jakubowski",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "15-49", "Start": "13-17" },
       { "Date": "2021-05-03", "End": "12-39", "Start": "11-31" },
@@ -2423,6 +2492,7 @@
   {
     "id": 133,
     "Fullname": "Vicente Streich",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "14-48", "Start": "11-59" },
       { "Date": "2021-05-02", "End": "17-34", "Start": "12-58" },
@@ -2457,6 +2527,7 @@
   {
     "id": 71,
     "Fullname": "Vincent Olson",
+    "Group": "unmanaged",
     "Days": [
       { "Date": "2021-05-01", "End": "14-24", "Start": "11-34" },
       { "Date": "2021-05-02", "End": "16-12", "Start": "11-11" },

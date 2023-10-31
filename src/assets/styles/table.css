@@ -20,6 +20,25 @@ thead td {
 tbody td {
   padding: 20px;
   text-align: right;
+}
+
+.management {
+  background-color: rgb(194, 255, 229);
+}
+
+.hr {
+  background-color: rgb(197, 216, 244);
+}
+
+.security {
+  background-color: rgb(252, 234, 164);
+}
+
+.accounting {
+  background-color: rgb(218, 197, 255);
+}
+
+.etc {
   background-color: rgb(244, 229, 241);
 }
 
@@ -66,7 +85,7 @@ input {
   padding: 5px;
   border: unset;
   border-bottom: 1px solid black;
-    outline: none;
+  outline: none;
 }
 
 button {
@@ -82,12 +101,12 @@ button {
   align-items: center;
 }
 
-.pagination-select{
+.pagination-select {
   display: flex;
   margin-right: 20px;
 }
 
-.pagination-page{
+.pagination-page {
   display: flex;
 }
 
@@ -100,11 +119,10 @@ select {
   cursor: pointer;
 }
 
-.button-left{
-
+.button-left {
 }
 
-.button-right{
+.button-right {
   width: 40px;
   mask-position: 100%;
   display: block;
@@ -121,7 +139,7 @@ select {
   background-color: gray;
 }
 
-.button-left{
+.button-left {
   width: 40px;
   mask-position: 100%;
   display: block;
