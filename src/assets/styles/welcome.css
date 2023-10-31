@@ -1,0 +1,71 @@
+.cool-component {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #ff6b6b, #0000ff);
+  color: #fff;
+  animation: gradientAnimation 10s ease infinite;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.cool-button {
+  background: linear-gradient(90deg, #ff6b6b, #0000ff);
+  color: #fff;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  animation: buttonGradientAnimation 5s ease infinite;
+}
+
+.kasper {
+  font-size: 36px;
+  animation: colorChange 1s alternate infinite;
+}
+
+@keyframes colorChange {
+  0% {
+    color: #0d5a27;
+  }
+  100% {
+    color: #00ff00;
+  }
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background: linear-gradient(135deg, #ff6b6b, #0000ff);
+  }
+  50% {
+    background: linear-gradient(135deg, #0000ff, #ff6b6b);
+  }
+  100% {
+    background: linear-gradient(135deg, #ff6b6b, #0000ff);
+  }
+}
+
+@keyframes buttonGradientAnimation {
+  0% {
+    background: linear-gradient(90deg, #ff6b6b, #0000ff);
+  }
+  50% {
+    background: linear-gradient(90deg, #0000ff, #ff6b6b);
+  }
+  100% {
+    background: linear-gradient(90deg, #ff6b6b, #0000ff);
+  }
+}
