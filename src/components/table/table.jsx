@@ -62,21 +62,25 @@ const Table = () => {
     if (search.trim().toLowerCase()) {
       tableSort = sortBySearchName(tableSort);
     }
-    return tableSort.map((row, index) => {
-      if (
-        index <= pagination.limit * pagination.page &&
-        index >= pagination.limit * (pagination.page - 1)
-      )
-        return (
-          <tr className={getClassName(row.Group)} key={row.id}>
-            <td>{row.Fullname}</td>
-            <td>{row.Group}</td>
-            {recieveTable(row.Days)}
-          </tr>
-        );
+    try {
+      return tableSort.map((row, index) => {
+        if (
+          index <= pagination.limit * pagination.page &&
+          index >= pagination.limit * (pagination.page - 1)
+        )
+          return (
+            <tr className={getClassName(row.Group)} key={row.id}>
+              <td>{row.Fullname}</td>
+              <td>{row.Group}</td>
+              {recieveTable(row.Days)}
+            </tr>
+          );
 
-      return <></>;
-    });
+        return <></>;
+      });
+    } catch (e) {
+      console.log(e);
+    }
   };
 
   const sortBySearchName = (tableSort) => {
